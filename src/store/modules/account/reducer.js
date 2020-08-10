@@ -1,6 +1,6 @@
 import { handleActions } from 'redux-actions'
 import { sessionStore } from '../../../utils/index'
-import routeList from '../../../routes'
+import routeList from '../../../routes/routes'
 import {
   setLogin,
   setLoginOut,
